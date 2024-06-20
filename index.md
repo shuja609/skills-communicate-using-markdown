@@ -10,6 +10,7 @@ Markdown is a lightweight markup language with plain text formatting syntax. It 
 - **Portable:** Markdown can be converted to many other formats, including HTML, PDF, and more.
 - **Widely supported:** Many platforms and applications support Markdown.
 
+
 ## Basic Syntax
 
 ### Headers
@@ -18,3 +19,5 @@ Markdown is a lightweight markup language with plain text formatting syntax. It 
 # This is an H1
 ## This is an H2
 ### This is an H3
+```
+![Image of Yaktocat](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
