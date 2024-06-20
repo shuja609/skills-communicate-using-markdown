@@ -36,4 +36,12 @@ def greet(name):
 greet("Alice")
 greet("Bob")
 ```
+
+## Task List
+
+- [ ] Task 1
+- [x] Task 2 (completed)
+- [ ] Task 3
+- [x] Task 4 (completed)
+
 ![Image of Yaktocat](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
