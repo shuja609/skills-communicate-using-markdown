@@ -20,4 +20,20 @@ Markdown is a lightweight markup language with plain text formatting syntax. It 
 ## This is an H2
 ### This is an H3
 ```
+
+## Sample Code in Markdown
+
+You can include code snippets in Markdown using fenced code blocks. Here's an example in Python:
+
+```python
+def greet(name):
+    """
+    This function greets the user with the given name.
+    """
+    print(f"Hello, {name}!")
+    
+# Example usage
+greet("Alice")
+greet("Bob")
+```
 ![Image of Yaktocat](https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-980x653.jpg)
